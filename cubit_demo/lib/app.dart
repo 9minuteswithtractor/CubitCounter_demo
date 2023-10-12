@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:cubit_demo/counter/counter.dart';
 import 'package:cubit_demo/counter/view/counter_page.dart';
 
 class CounterApp extends MaterialApp {
