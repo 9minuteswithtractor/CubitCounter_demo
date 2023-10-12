@@ -2,7 +2,9 @@
 
 ## app-about: ❓
 
-    This application is my first implementation of State Management using Cubit . Following alon but slightly customizing my version of  https://bloclibrary.dev/#/fluttercountertutorial
+    This application is my first implementation of State Management using Cubit . 
+    Following along but slightly customizing my version of the app .
+    source: https://bloclibrary.dev/#/fluttercountertutorial
 
 ## tested-physical-device: 📲
 
